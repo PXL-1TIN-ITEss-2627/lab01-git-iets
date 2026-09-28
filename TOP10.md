@@ -1,7 +1,7 @@
 # Our Team Top 10
 
 1. cs2
-2. TBD
+2. portal 2
 3. TBD
 4. TBD
 5. TBD
